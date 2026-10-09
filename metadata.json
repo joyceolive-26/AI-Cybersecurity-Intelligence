@@ -1,0 +1,6 @@
+{
+  "name": "CYBERPULSE",
+  "description": "Behavioral Identity + Attack Intent + Evidence Verification. An AI-assisted cybersecurity investigation sentinel combining behavioral DNA, mutation scoring, attack progression, evidence verification, uncertainty-aware classification, behavioral memory, next-best investigation, and attack-path reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
